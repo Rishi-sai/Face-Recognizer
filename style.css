@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-image: radial-gradient(rgb(44, 136, 182),rgb(117, 208, 247));
+   color: white;
+
+}
+h1{
+    color: rgb(156, 86, 86);
+    font-family: cursive;
+   
+}
+#camera{
+    border:2px dashed black;
+    width: 350px;
+    height: 300px;
+    text-align: center;
+    margin-left: 500px;
+}
